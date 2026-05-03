@@ -69,7 +69,6 @@ A prototype web interface was developed (currently runs on localhost).
 
 ## 📷 Screenshot
 
-(Add your screenshot here)
 
 ---
 
