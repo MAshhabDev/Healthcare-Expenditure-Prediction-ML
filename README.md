@@ -75,7 +75,7 @@ A prototype web interface was developed (currently runs on localhost).
 ## ▶️ How to Run
 
 1. Open notebook in Google Colab
-2. Run all cells
+2. Run all cells step by step don't miss any cells to run
 
 ---
 
